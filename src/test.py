@@ -1,1 +1,1 @@
-print "Fuck 'em bithces! "
+print "This is the second commit. "
